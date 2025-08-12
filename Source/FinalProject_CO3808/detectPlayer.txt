@@ -1,0 +1,7 @@
+// Check if the overlapping actor is the player
+ACVehiclePlayer* Player = Cast<ACVehiclePlayer>(OtherActor); // Replace AYourPlayerClass with your actual player class name
+
+if (Player)
+{
+	
+}
