@@ -3,7 +3,6 @@ A 3D racing game built in Unreal Engine 5 with C++.
 
 ## Features
 - Implemented vehicle controls & physics
-- Added AI traffic navigation system
 - Scoring system with time-based mechanics
 
 ## Technologies
