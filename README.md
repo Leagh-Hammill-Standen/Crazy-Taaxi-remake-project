@@ -1,5 +1,20 @@
-due to file size issues, the following asset packages must be installed independently
+# Crazy Taxi Inspired Racing Game
+A 3D racing game built in Unreal Engine 5 with C++.
 
+## Features
+- Implemented vehicle controls & physics
+- Added AI traffic navigation system
+- Scoring system with time-based mechanics
+
+## Technologies
+- C++ | Unreal Engine 5 | Blueprints | Git
+
+## Screenshots
+
+## How to Run
+Open in Unreal Engine 5.3+, compile, run the main map.
+
+due to file size issues, the following asset packages must be installed independently
 
 Utopian City: https://www.fab.com/listings/1e9f098e-5157-4cbf-b8a0-803eda37474b
 
